@@ -1,7 +1,5 @@
 <script>
-export default {
-    
-}
+
 </script>
 <template>
         <footer class="bg-white dark:bg-gray-800">
@@ -38,13 +36,13 @@ export default {
                     <h3 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">API</h3>
                     <ul class="text-gray-500 dark:text-gray-400">
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Privacy Policy</a>
+                            <a href="#" class="hover:underline">Gratuit</a>
                         </li>
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Licensing</a>
+                            <a href="#" class="hover:underline">Standard</a>
                         </li>
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Terms</a>
+                            <a href="#" class="hover:underline">Premium</a>
                         </li>
                     </ul>
                 </div>
