@@ -1,6 +1,5 @@
 import axios from 'axios';
 
-// Configurer l'URL de base de votre API Laravel
 axios.defaults.baseURL = 'http://127.0.0.1:8000/api/';
 
 // Intercepteur pour gérer les erreurs de manière globale
