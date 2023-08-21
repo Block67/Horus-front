@@ -27,71 +27,28 @@ import Footer from './components/Footer.vue'
       <div class="-mx-4 sm:-mx-8 px-4 sm:px-8 py-4">
         <div class="inline-block w-full shadow-md rounded-lg overflow-x-auto">
           <div class="overflow-x-auto">
-            <table class="w-full leading-normal">
-              <thead>
-                <tr>
-                  <th
-                    class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-center text-middle text-xs font-semibold text-gray-700 uppercase tracking-wider">
-                    Adresse cryptographiques
-                  </th>
-                  <th
-                    class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-center text-middle text-xs font-semibold text-gray-700 uppercase tracking-wider">
-                    Numéro de téléphone
-                  </th>
-                  <th
-                    class="px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-center text-middle text-xs font-semibold text-gray-700 uppercase tracking-wider">
-                    Plateforme d'investissement
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                   
-                  </td>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                </tr>
-                <tr>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                </tr>
-                <tr>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                   
-                  </td>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                  <td class="px-5 py-5 border-b border-gray-200 bg-white text-sm text-center">
-                    
-                  </td>
-                </tr>
-                <tr>
-                  <td class="px-5 py-5 bg-white text-sm text-center">
-                    
-                  </td>
-                  <td class="px-5 py-5 bg-white text-sm text-center">
-                    
-                  </td>
-                  <td class="px-5 py-5 bg-white text-sm text-center">
-                   
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
+    <table class="w-full leading-normal">
+        <thead>
+            <tr>
+                <th class="px-5 py-3 border-b-2 border-gray-100 bg-gray-100 text-center text-middle text-xs font-semibold text-gray-700 uppercase tracking-wider text-sm">
+                    Adresse 
+                </th>
+                <th class="px-5 py-3 border-b-2 border-gray-100 bg-gray-100 text-center text-middle text-xs font-semibold text-gray-700 uppercase tracking-wider text-sm">
+                   Téléphone
+                </th>
+                <th class="px-5 py-3 border-b-2 border-gray-100 bg-gray-100 text-center text-middle text-xs font-semibold text-gray-700 uppercase tracking-wider text-sm">
+                    Plateforme
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+        <td></td>
+        <td></td>
+        <td></td>
+        </tbody>
+    </table>
+</div>
+
         </div>
       </div>
     </div>
