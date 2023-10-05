@@ -306,7 +306,7 @@ import Footer from './components/Footer.vue'
           <h3 class="mb-4 text-2xl font-semibold">Standard</h3>
           <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Service de paiements et groupe communautaire</p>
           <div class="flex items-baseline justify-center my-8">
-            <span class="mr-2 text-5xl font-extrabold">28.99$</span>
+            <span class="mr-2 text-5xl font-extrabold">4.99$</span>
             <span class="text-gray-500 dark:text-gray-400" dark:text-gray-400>/Mois</span>
           </div>
           <!-- List -->
@@ -373,7 +373,7 @@ import Footer from './components/Footer.vue'
           <h3 class="mb-4 text-2xl font-semibold">Plan Premium </h3>
           <p class="font-light text-gray-500 sm:text-lg dark:text-gray-400">Entreprises FinTech et organisations de cybersécurité </p>
           <div class="flex items-baseline justify-center my-8">
-            <span class="mr-2 text-5xl font-extrabold">58.99$</span>
+            <span class="mr-2 text-5xl font-extrabold">14.98$</span>
             <span class="text-gray-500 dark:text-gray-400">/Mois</span>
           </div>
           <!-- List -->
